@@ -3,6 +3,10 @@
 **mikami1004/mikami1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
+[![Twitter URL][badge-url]][twitter]
+
+[badge-url]: https://img.shields.io/twitter/url?label=%40not75743&style=social&url=https%3A%2F%2Ftwitter.com%2Fnot75743
+[twitter]: https://twitter.com/not75743
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
