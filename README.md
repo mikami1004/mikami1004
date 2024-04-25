@@ -4,8 +4,10 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FR_11235)
+[![Twitter URL][badge-url]][twitter]
 
+[badge-url]: https://img.shields.io/twitter/url?label=%40R_11235&style=social&url=https%3A%2F%2Ftwitter.com%2FR_11235
+[twitter]: https://twitter.com/R_11235
 
 Here are some ideas to get you started:
 
