@@ -6,7 +6,11 @@
 [![Twitter URL][badge-url]][twitter]
 
 [badge-url]: https://img.shields.io/twitter/url?label=%40not75743&style=social&url=https%3A%2F%2Ftwitter.com%2Fnot75743
-[twitter]: https://twitter.com/not75743
+[twitter]: [![Twitter URL][badge-url]][twitter]
+
+[badge-url]: https://img.shields.io/twitter/url?label=%40not75743&style=social&url=https%3A%2F%2Ftwitter.com%2Fnot75743
+[twitter]: https://twitter.com/R_11235
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
