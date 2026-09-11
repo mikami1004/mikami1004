@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=mikami1004)
-
 ![this is my personal website](https://mikami1004.github.io/)
 
 <!--
